@@ -1,5 +1,5 @@
 # Rock Paper Scissor Game
 
-It is basically a command line version of the rock_paper_scissor game.
+It is a command line version of the Rock Paper Scissor game.
 which is made using python programming language.
 
